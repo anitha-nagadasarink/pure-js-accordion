@@ -18,9 +18,9 @@ Faq div, buttons, p, anchor elements created in Javascript. Elements are created
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://pure-js-age-calculator.netlify.app/)
+[Live Link !](https://accordion-pure-js.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/age-calculator-using-pure-JS/blob/2fa3d5c6fe9feb081092f2bc91466a05ee5dc468/image/demo.PNG)
+![App Image]https://github.com/anitha-nagadasarink/pure-js-accordion/blob/bbb5b2dc3b14b066155d984bd2fbda92e9e2786b/Image/demo.PNG)
 
