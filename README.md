@@ -1,4 +1,4 @@
-# Project Name : **Digital Marketing Home-page !** 
+# Project Name : **Accordion using Pure Javascript** 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
 
 This project developed with pure HTML and CSS mainly focused on Pure Javascript. <br/>
@@ -22,5 +22,5 @@ Faq div, buttons, p, anchor elements created in Javascript. Elements are created
 
 ### Demo :
 
-![App Image]https://github.com/anitha-nagadasarink/pure-js-accordion/blob/bbb5b2dc3b14b066155d984bd2fbda92e9e2786b/Image/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/pure-js-accordion/blob/bbb5b2dc3b14b066155d984bd2fbda92e9e2786b/Image/demo.PNG)
 
